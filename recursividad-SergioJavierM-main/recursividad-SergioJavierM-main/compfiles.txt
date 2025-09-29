@@ -1,0 +1,15 @@
+./miTest/AppTest.java
+./miPrincipal/Hanoi.java
+./miPrincipal/OrdenamientoMezcla.java
+./miPrincipal/Incremento.java
+./miPrincipal/SumaDigitos.java
+./miPrincipal/Pared.java
+./miPrincipal/Principal.java
+./miPrincipal/BusquedaBinaria.java
+./miPrincipal/ParImpar.java
+./miPrincipal/Alfabeto.java
+./miPrincipal/MaximoComunDivisor.java
+./miPrincipal/OrdenamientoSeleccion.java
+./miPrincipal/Factorial.java
+./miPrincipal/MuestraNaturales.java
+./miPrincipal/Fibonacci.java
